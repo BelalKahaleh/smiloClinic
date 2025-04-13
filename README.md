@@ -8,14 +8,7 @@ This project is a **fully responsive Dental Clinic Management System** built wit
 
 ---
 
-## 👨‍💻 About the Team
 
-- **Jenan Faraj**: Scrum Master
-- **Hareth Aljundi**: Product Owner
-- **Faisal Jadallah**: QA Specialist
-- **Heba Al maitah**: Developer
-- **Mahmoud suliman**: Developer
-- **Belal Kahaleh**: Developer
 
 ## 👥 User Roles & Responsibilities
 
